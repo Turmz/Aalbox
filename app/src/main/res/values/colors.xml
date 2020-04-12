@@ -6,10 +6,11 @@
     <color name="colorGreen">#6EE07F</color>
     <color name="colorPink">#FD94FE</color>
     <color name="colorRed">#F94949</color>
-    <color name="colorPrimary">#F94949</color>
-    <color name="colorPrimaryDark">#F94949</color>
-    <color name="colorPrimaryLight">#F94949</color>
-    <color name="colorAccent">#F94949</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimary">#030C5B</color>
+    <color name="colorPrimaryDark">#030C5B</color>
+    <color name="colorPrimaryLight">#030C5B</color>
+    <color name="colorAccent">#FFFFFF</color>
 
 
 
